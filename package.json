@@ -1,0 +1,18 @@
+{
+  "name": "parts_of_speech_identifier",
+  "version": "1.0.0",
+  "description": "This will help the users to identifier various parts of speech used in their paragraphs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "parts_of_speech_identifier"
+  },
+  "keywords": [
+    "parts_of_speech_identifier"
+  ],
+  "author": "MDK",
+  "license": "ISC"
+}
